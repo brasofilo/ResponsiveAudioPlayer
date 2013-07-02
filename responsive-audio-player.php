@@ -3,7 +3,7 @@
 	Plugin Name: Responsive Audio Player
 	Description: WordPress plugin for http://osvaldas.info/audio-player-responsive-and-touch-friendly. 
 	             Usage: [resp-player width="50%" mp3="http://example.com/file.mp3"]
-	Version: 0.1
+	Version: 2013.07.02
 	Author: Rodolfo Buaiz 
 	Author URI: http://www.rodbuaiz.com
 */

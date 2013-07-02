@@ -8,4 +8,12 @@ Improved to allow only one player to be active at a time using the code provided
 
 ##Usage
 
-`[resp-player width="50%" mp3="http://example.com/file.mp3" ogg="http://example.com/file.ogg"  wav="http://example.com/file.wav"]`
+`[resp-player width="50%" mp3="http://example.com/file.mp3" ogg="http://example.com/file.ogg"]`
+
+Also accepts WAV files, add `wav="http://example.com/file.wav"`
+
+##Changelog
+
+Version 2013.07.02
+
+* Plugin as a repo in GitHub. First version was a Gist.
