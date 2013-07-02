@@ -17,4 +17,8 @@ Also accepts WAV files, add `wav="http://example.com/file.wav"`
 
 Version 2013.07.02
 
+* Encapsulated plugin into toscho's Demo Class
+
+Version 2013.07.01
+
 * Plugin as a repo in GitHub. First version was a Gist.
