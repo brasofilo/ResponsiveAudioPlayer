@@ -7,6 +7,8 @@ Improved to allow only one player to be active at a time using the code provided
 
 Applied the [Improved version of JavaScript fix for the iOS viewport scaling bug](https://gist.github.com/mathiasbynens/901295). See http://www.blog.highub.com/mobile-2/a-fix-for-iphone-viewport-scale-bug/
 
+Plugin only loads its scripts and style if Shortcode found in post/page.
+
 ##Usage
 
 `[resp-player width="50%" mp3="http://example.com/file.mp3" ogg="http://example.com/file.ogg"]`
