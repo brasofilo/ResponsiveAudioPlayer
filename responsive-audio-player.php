@@ -2,8 +2,8 @@
 /**
  * Plugin Name: Responsive Audio Player
  * Description: WordPress shortcode for http://osvaldas.info/audio-player-responsive-and-touc iendly. 
- *              Usage: [resp-player width="50%" mp3="http://example.com/file.mp3"]
- *              Structured upon Plugin Class Demo, by toscho, https://gist.github.com/3804204.
+ * Usage [resp-player width="50%" mp3="http://example.com/file.mp3"]
+ * Structured upon Plugin Class Demo, by toscho, https://gist.github.com/3804204.
  * Version: 2013.07.02
  * Author: Rodolfo Buaiz 
  * Author URI: http://www.rodbuaiz.com
