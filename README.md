@@ -5,7 +5,8 @@ Shortcode for the [Audio Player: Responsive and Touch-Friendly](http://osvaldas.
 
 Improved to allow only one player to be active at a time using the code provided by [Felipe K. de Boni](http://osvaldas.info/audio-player-responsive-and-touch-friendly#comment-727), [Curtis](http://osvaldas.info/audio-player-responsive-and-touch-friendly#comment-773) and [Hans](http://osvaldas.info/audio-player-responsive-and-touch-friendly#comment-896) in the comments thread.
 
-Applied the [Improved version of JavaScript fix for the iOS viewport scaling bug](https://gist.github.com/mathiasbynens/901295). See http://www.blog.highub.com/mobile-2/a-fix-for-iphone-viewport-scale-bug/
+Applied the [Improved version of JavaScript fix for the iOS viewport scaling bug](https://gist.github.com/mathiasbynens/901295). 
+See http://www.blog.highub.com/mobile-2/a-fix-for-iphone-viewport-scale-bug/
 
 Plugin only loads its scripts and style if Shortcode found in post/page.
 
@@ -23,4 +24,8 @@ Version 2013.07.02
 
 Version 2013.07.01
 
-* Plugin as a repo in GitHub. First version was a Gist.
+* Plugin as a repo in GitHub. 
+
+Version 2013.05.22
+
+* First release as a Gist. https://gist.github.com/brasofilo/5630542
